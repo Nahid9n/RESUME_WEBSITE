@@ -1,0 +1,52 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(198,196,198);
+}
+
+.brand-logo{
+    width: 120px;
+    height: 100px;
+    margin: auto;
+    
+    
+    
+}
+.menucolor{
+    background-color: rgb(198,196,198);
+}
+
+.background{
+    background-image: url(/images/background.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1.0;
+    
+}   
+.homemargin{
+    margin-top: 200px;
+}
+.opacityhome{
+    opacity: .8;
+}
+
+.footercolor{
+    background-color: rgb(142,162,183);
+}
+.contactme{
+    background-color: rgb(204,204,255);
+}
+
+.qualification{
+    background-image: url(/images/qualification.jpg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.aiubimg{
+    width: 80%;
+    height: 300px;
+}
